@@ -1,5 +1,26 @@
 # Demo Functional UI Tests
 
+<p>
+  <a href="https://twitter.com/intent/follow?screen_name=mad_pandey"><img align="left" src="https://img.shields.io/twitter/follow/mad_pandey.svg?style=social&label=Follow%20@mad_pandey" alt="Follow on Twitter"></a>
+<br />
+</p>
+
+
+
+| **CI Provider**  | **Status** |
+| ------------- | ------------- |
+| **Github Actions**  | ![DemoCypress](https://github.com/imsiddharth/demoCypress)|
+| **Travis** | [[Travis](https://travis-ci.org/imsiddharth/demoCypress.svg)](https://travis-ci.org/imsiddharth/demoCypress) |
+
+
+### What I added
+  * Added Travis Integration 
+  * Added Github Actions 
+  * Added one small test which is in the document example
+  * To run on CI added docker support.
+  * Documentation is insightful, please read before adopting
+  * Quick setup work. 
+
 ### Summary
 This directory contains the UI Tests for front-end projects, these tests are written in nodejs using [cypress.io](https://www.cypress.io) and [mocha](https://mochajs.org/) test framework.
 
