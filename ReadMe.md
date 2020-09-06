@@ -7,9 +7,10 @@
 
 
 
-| **CI Provider**  | **Status** |
-| ------------- | ------------- |
-| **Travis** | [![Travis](https://travis-ci.org/imsiddharth/demoCypress.svg)](https://travis-ci.org/imsiddharth/demoCypress) |
+| **CI Provider**  | **Status** | **Time Taken(Approx)** |
+| ------------- | ------------- |  ------------- |
+| **Travis** | [![Travis](https://travis-ci.org/imsiddharth/demoCypress.svg)](https://travis-ci.org/imsiddharth/demoCypress) | [Travis Status](http://scribu.net/travis-stats/#imsiddharth/demoCypress/master)|
+
 
 
 ### What I added
