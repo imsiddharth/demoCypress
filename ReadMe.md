@@ -9,7 +9,7 @@
 
 | **CI Provider**  | **Status** |
 | ------------- | ------------- |
-| **Travis** | [[!Travis](https://travis-ci.org/imsiddharth/demoCypress.svg?branch=master)](https://travis-ci.org/imsiddharth/demoCypress) |
+| **Travis** | [![Travis](https://travis-ci.org/imsiddharth/demoCypress.svg)](https://travis-ci.org/imsiddharth/demoCypress) |
 
 
 ### What I added
