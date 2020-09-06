@@ -15,7 +15,6 @@
 
 ### What I added
   * Added Travis Integration 
-  * Added Github Actions 
   * Added one small test which is in the document example
   * To run on CI added docker support.
   * Documentation is insightful, please read before adopting
