@@ -9,7 +9,7 @@
 
 | **CI Provider**  | **Status** | **Time Taken(Approx)** |
 | ------------- | ------------- |  ------------- |
-| **Travis** | [![Travis](https://travis-ci.org/imsiddharth/demoCypress.svg)](https://travis-ci.org/imsiddharth/demoCypress) | [Travis Status](http://scribu.net/travis-stats/#imsiddharth/demoCypress/master)|
+| **Travis** | [![Travis](https://travis-ci.org/imsiddharth/demoCypress.svg)](https://travis-ci.org/imsiddharth/demoCypress) | 10+ sec [Travis Status](http://scribu.net/travis-stats/#imsiddharth/demoCypress/master)|
 
 
 
