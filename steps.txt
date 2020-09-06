@@ -1,0 +1,17 @@
+Steps to create Test
+
+Step 1: Create a project folder
+- mkdir <folderName>
+Step 2: Navigate to folder
+- cd <foldername with path>
+Step 3: SetUp the build management file for proect
+- npm init -y
+Step 4: Add the cypress to dev dependencies
+- npm install --save-dev cypress
+Step 5: add cypress boiler plate
+- npx cypress open
+Step 6: Execute Test
+- cypress run --browser chrome
+
+Docker support
+- docker run -it -v $PWD:/e2e -w /e2e --entrypoint=cypress cypress/included:3.2.0 run

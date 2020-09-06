@@ -1,0 +1,22 @@
+{
+  "name": "cypressProject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "docker": "docker run -it -v $PWD:/e2e -w /e2e --entrypoint=cypress cypress/included:3.2.0 run --env allure=true",
+    "test": "node_modules/.bin/cypress run --env allure=true",
+    "report": "node_modules/.bin/allure generate ./cypress/reports -c && allure open",
+    "cypress": "node_modules/.bin/cypress open"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^5.1.0"
+  },
+  "dependencies": {
+    "@shelex/cypress-allure-plugin": "^1.8.1",
+    "allure-commandline": "^2.13.0"
+  }
+}
