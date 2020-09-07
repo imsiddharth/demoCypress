@@ -36,7 +36,7 @@ This directory contains the UI Tests for front-end projects, these tests are wri
 
 ### Installation
 You should have Node.js installed. If you don't have Node installed, we recommend installing NVM to assist managing multiple active Node.js versions.
-Blackthornrx recommended version is `10+`.
+Recommended version is `10+`.
     
 Once node is installed, execute:   
 
