@@ -3,7 +3,7 @@
 
 <p>
   <a href="https://twitter.com/intent/follow?screen_name=mad_pandey" rel="nofollow noreferrer">
-    <img src="https://img.shields.io/twitter/follow/mad_pandey.svg" alt="Twitter"> Twitter
+    <img src="https://img.shields.io/twitter/follow/mad_pandey.svg" alt="Twitter">
   </a> &nbsp; 
   <a href="https://www.linkedin.com/in/imsiddharth/" rel="nofollow noreferrer">
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
