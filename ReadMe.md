@@ -23,9 +23,6 @@
 ### Summary
 This directory contains the UI Tests for front-end projects, these tests are written in nodejs using [cypress.io](https://www.cypress.io) and [mocha](https://mochajs.org/) test framework.
 
-### Test approach 
-We try to minimise the number of e2e tests that we have, as by nature these are slow, due to that it's flaky. Given the majority of Blackthornrx pages are with limited functionality it is important to ***focus on core functional areas/user journeys only***.
-
 
 ### Wait Strategy
 
