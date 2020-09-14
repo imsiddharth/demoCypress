@@ -52,6 +52,11 @@ To Test on headless:
  
     npm test
 
+### Reporting with Allure Support
+
+To generate report:
+ 
+    npm run report
 
 ### Run Single feature, or test
 During test development you may wish to execute a single test or spec. This should not be handled via the package.json. It should be done so via commandline. 
