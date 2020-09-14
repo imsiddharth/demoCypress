@@ -5,7 +5,7 @@ it('should be able to add a new todo to the list', () => {
     debugger;
     cy.get('.new-todo', {timeout: 6000}).type('wash utensils {enter}')
     debugger;
-    cy.get('label').should('have.text', 'wash utenils').debug();
+    cy.get('label').should('have.text', 'wash utensils').debug();
     cy.get('.toggle').should('not.be.checked')
     cy.get('.toggle').click()
     cy.get('label').should('have.css', 'text-decoration-line', 'line-through');
