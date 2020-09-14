@@ -3,3 +3,5 @@ screenshots
 videos
 node_modules
 .DS_Store
+allure-reports
+reports
